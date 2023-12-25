@@ -32,9 +32,9 @@
 
 <h3 align="center"> Catalog App made with Flutter  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a></h3>
 
-### [<p align="center">🔗 Demo video </p>](https://www.youtube.com/watch?v=naEy3Wc3iBs)
 
-<h3 align="center"> Show ❤️ by Starring this Repo </h3>
+
+
 
 ## Getting Started
 
